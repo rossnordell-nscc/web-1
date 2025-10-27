@@ -1,0 +1,59 @@
+body{
+    
+    background-color: skyblue;
+    
+}
+
+.type1{
+    font-family: "Audiowide", sans-serif;
+    text-align-last: center;
+    font-size: 5em;
+}
+
+.type2{
+    font-family: "Yarndings 20", system-ui;
+    letter-spacing: 20px;
+    text-align-last: center;
+}
+
+.type3{
+    font-family: "Bitcount Grid Single", system-ui;
+    line-height: 5em;
+    text-align: right;
+}
+
+.type4{
+    font-family: "Chiron Sung HK", serif;
+    font-weight: 400em;
+    text-align: center;
+}
+
+.type5{
+    font-family: "Pirata One", system-ui;
+    letter-spacing: 20px;
+}
+
+.type6{
+    font-family: "Caesar Dressing", system-ui;
+    text-align: center;
+}
+
+.type7{
+    font-family: "Uncial Antiqua", system-ui;
+    text-align: right;
+}
+
+.type8{
+    font-family: "Plaster", system-ui;
+    text-align: center
+}
+
+.type9{
+     font-family: "Climate Crisis", sans-serif;
+    text-align: center;
+}
+
+.type10{
+    text-align: center;
+    font-size: 9px;
+}
