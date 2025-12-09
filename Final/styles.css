@@ -35,9 +35,6 @@ nav a {
     letter-spacing: 0.5px;
 }
 
-nav a:hover {
-    border-bottom: 2px solid #1a2a43;
-}
 
 .hero {
     background-image: url("images/banner-img.jpg");
@@ -63,6 +60,7 @@ nav a:hover {
     text-decoration: none;
     border: 1px solid white;
 }
+
 
 .welcome {
     text-align: center;
